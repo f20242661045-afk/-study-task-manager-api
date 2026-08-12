@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+httpx
+pytest
+pwdlib[argon2]
+PyJWT
+python-multipart
+fastapi
+uvicorn[standard]
+httpx
+pytest
+pwdlib[argon2]
+PyJWT
+python-multipart
+email-validator
