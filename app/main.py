@@ -40,7 +40,7 @@ from app.user_repository import (
 from app.weather import get_weather
 
 
-create_table()
+#create_table()
 
 
 app = FastAPI(
