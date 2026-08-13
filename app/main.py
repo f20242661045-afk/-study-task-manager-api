@@ -336,7 +336,7 @@ def weather(
             status_code=502,
             detail="Weather service is unavailable.",
         )
-    @app.get("/")
+@app.get("/")
 def home():
     return {
         "message": "Study Task Manager API is running",
